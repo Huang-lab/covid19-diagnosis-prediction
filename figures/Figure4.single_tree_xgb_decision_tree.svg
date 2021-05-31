@@ -1,0 +1,1163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="4010pt"
+   height="3014pt"
+   viewBox="0.00 0.00 577.50 434.00"
+   version="1.1"
+   id="svg5308"
+   sodipodi:docname="single_tree_xgb_decision_tree.svg"
+   inkscape:version="1.0.1 (c497b03c, 2020-09-10)">
+  <metadata
+     id="metadata5314">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs5312">
+    <rect
+       x="62.945674"
+       y="103.99545"
+       width="1.3251721"
+       height="9.9387906"
+       id="rect5529" />
+    <rect
+       x="43.990155"
+       y="120.36355"
+       width="39.808445"
+       height="12.864146"
+       id="rect5398" />
+    <rect
+       x="35.886705"
+       y="111.10246"
+       width="52.093604"
+       height="25.467984"
+       id="rect5392" />
+    <rect
+       x="156.28081"
+       y="32.383239"
+       width="3.4729069"
+       height="12.733992"
+       id="rect5386" />
+    <rect
+       x="27.783256"
+       y="26.59506"
+       width="138.91628"
+       height="39.359612"
+       id="rect5378" />
+    <rect
+       x="152.80791"
+       y="129.62463"
+       width="12.733992"
+       height="75.246317"
+       id="rect5372" />
+    <rect
+       x="20.837442"
+       y="38.171417"
+       width="81.034495"
+       height="31.256163"
+       id="rect5366" />
+    <rect
+       x="45.110741"
+       y="43.827106"
+       width="30.073828"
+       height="15.036913"
+       id="rect5360" />
+    <rect
+       x="42.604589"
+       y="41.320953"
+       width="88.968406"
+       height="32.57998"
+       id="rect5354" />
+    <rect
+       x="43.990154"
+       y="120.36355"
+       width="39.808445"
+       height="12.864146"
+       id="rect5398-7" />
+    <rect
+       x="43.990154"
+       y="120.36355"
+       width="39.808445"
+       height="12.864146"
+       id="rect5411" />
+    <rect
+       x="43.990154"
+       y="120.36355"
+       width="37.158101"
+       height="40.692759"
+       id="rect5398-8" />
+    <rect
+       x="43.990154"
+       y="120.36355"
+       width="39.808445"
+       height="12.864146"
+       id="rect5411-9" />
+    <rect
+       x="43.990154"
+       y="120.36355"
+       width="39.808445"
+       height="12.864146"
+       id="rect5398-74" />
+    <rect
+       x="43.990154"
+       y="120.36355"
+       width="39.808445"
+       height="12.864146"
+       id="rect5411-8" />
+    <rect
+       x="43.990154"
+       y="120.36355"
+       width="39.808445"
+       height="12.864146"
+       id="rect5398-4" />
+    <rect
+       x="43.990154"
+       y="120.36355"
+       width="39.808445"
+       height="12.864146"
+       id="rect5411-0" />
+    <rect
+       x="43.990154"
+       y="120.36355"
+       width="39.808445"
+       height="12.864146"
+       id="rect5398-70" />
+    <rect
+       x="43.990154"
+       y="120.36355"
+       width="39.808445"
+       height="12.864146"
+       id="rect5411-05" />
+    <rect
+       x="43.990154"
+       y="120.36355"
+       width="39.808445"
+       height="12.864146"
+       id="rect5398-78" />
+    <rect
+       x="43.990154"
+       y="120.36355"
+       width="39.808445"
+       height="12.864146"
+       id="rect5411-06" />
+    <rect
+       x="43.990154"
+       y="120.36355"
+       width="38.451121"
+       height="36.592233"
+       id="rect5398-3" />
+    <rect
+       x="43.990154"
+       y="120.36355"
+       width="39.808445"
+       height="12.864146"
+       id="rect5411-4" />
+    <rect
+       x="43.990154"
+       y="120.36355"
+       width="39.808445"
+       height="12.864146"
+       id="rect5398-1" />
+    <rect
+       x="43.990154"
+       y="120.36355"
+       width="39.808445"
+       height="12.864146"
+       id="rect5411-3" />
+    <rect
+       x="43.990154"
+       y="120.36355"
+       width="37.1581"
+       height="40.69276"
+       id="rect5398-8-9" />
+    <rect
+       x="43.990154"
+       y="120.36355"
+       width="37.1581"
+       height="40.69276"
+       id="rect5568" />
+    <rect
+       x="43.990154"
+       y="120.36355"
+       width="37.1581"
+       height="40.69276"
+       id="rect5398-8-6" />
+    <rect
+       x="43.990154"
+       y="120.36355"
+       width="37.1581"
+       height="40.69276"
+       id="rect5568-5" />
+    <rect
+       x="43.990154"
+       y="120.36355"
+       width="37.1581"
+       height="40.69276"
+       id="rect5398-8-91" />
+    <rect
+       x="43.990154"
+       y="120.36355"
+       width="37.1581"
+       height="40.69276"
+       id="rect5568-9" />
+    <rect
+       x="43.990154"
+       y="120.36355"
+       width="37.1581"
+       height="40.69276"
+       id="rect5398-8-4" />
+    <rect
+       x="43.990154"
+       y="120.36355"
+       width="37.1581"
+       height="40.69276"
+       id="rect5568-7" />
+    <rect
+       x="43.990154"
+       y="120.36355"
+       width="37.1581"
+       height="40.69276"
+       id="rect5398-8-92" />
+    <rect
+       x="43.990154"
+       y="120.36355"
+       width="37.1581"
+       height="40.69276"
+       id="rect5568-96" />
+    <rect
+       x="43.990154"
+       y="120.36355"
+       width="37.1581"
+       height="40.69276"
+       id="rect5398-8-0" />
+    <rect
+       x="43.990154"
+       y="120.36355"
+       width="37.1581"
+       height="40.69276"
+       id="rect5568-8" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="851"
+     inkscape:window-height="619"
+     id="namedview5310"
+     showgrid="false"
+     inkscape:zoom="0.10263363"
+     inkscape:cx="2400.6216"
+     inkscape:cy="2030.9241"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg5308"
+     inkscape:document-rotation="0" />
+  <g
+     id="graph0"
+     class="graph"
+     transform="matrix(0.94451374,0,0,0.94451374,45.770248,383.04221)">
+    <title
+       id="title5072">%3</title>
+    <polygon
+       fill="#ffffff"
+       stroke="transparent"
+       points="541.5,36 -36,36 -36,-398 541.5,-398 "
+       id="polygon5074" />
+    <!-- 0 -->
+    <g
+       id="node1"
+       class="node">
+      <title
+         id="title5076">0</title>
+      <path
+         fill="#fff7eb"
+         stroke="#000000"
+         d="m 290,-362 c 0,0 -85,0 -85,0 -6,0 -12,6 -12,12 0,0 0,14 0,14 0,6 6,12 12,12 0,0 85,0 85,0 6,0 12,-6 12,-12 0,0 0,-14 0,-14 0,-6 -6,-12 -12,-12"
+         id="path5078" />
+      <text
+         text-anchor="middle"
+         x="247.5"
+         y="-340.79999"
+         font-family="Times, serif"
+         font-size="9px"
+         fill="#000000"
+         id="text5080">Calcium &lt; 9.05 mg/dL</text>
+    </g>
+    <!-- 1 -->
+    <g
+       id="node2"
+       class="node">
+      <title
+         id="title5083">1</title>
+      <path
+         fill="#fff7eb"
+         stroke="#000000"
+         d="m 226,-281 c 0,0 -87,0 -87,0 -6,0 -12,6 -12,12 0,0 0,14 0,14 0,6 6,12 12,12 0,0 87,0 87,0 6,0 12,-6 12,-12 0,0 0,-14 0,-14 0,-6 -6,-12 -12,-12"
+         id="path5085" />
+      <text
+         text-anchor="middle"
+         x="182.5"
+         y="-259.79999"
+         font-family="Times, serif"
+         font-size="9px"
+         fill="#000000"
+         id="text5087">O2 Saturation &lt; 96.5%</text>
+    </g>
+    <!-- 0&#45;&gt;1 -->
+    <g
+       id="edge1"
+       class="edge">
+      <title
+         id="title5090">0-&gt;1</title>
+      <path
+         fill="none"
+         stroke="#0000ff"
+         d="m 232.0959,-323.8041 c -8.3378,10.3901 -18.7742,23.3955 -27.9197,34.7922"
+         id="path5092" />
+      <polygon
+         fill="#0000ff"
+         stroke="#0000ff"
+         points="204.0522,-288.8574 200.9229,-284.9577 200.5426,-291.6738 197.7935,-281.0581 207.5619,-286.041 200.9229,-284.9577 "
+         id="polygon5094" />
+      <text
+         text-anchor="middle"
+         x="222.5"
+         y="-301.20001"
+         font-family="Times, serif"
+         font-size="6px"
+         fill="#000000"
+         id="text5096">Yes</text>
+    </g>
+    <!-- 2 -->
+    <g
+       id="node3"
+       class="node">
+      <title
+         id="title5099">2</title>
+      <path
+         fill="#fff7eb"
+         stroke="#000000"
+         d="m 357,-281 c 0,0 -87,0 -87,0 -6,0 -12,6 -12,12 0,0 0,14 0,14 0,6 6,12 12,12 0,0 87,0 87,0 6,0 12,-6 12,-12 0,0 0,-14 0,-14 0,-6 -6,-12 -12,-12"
+         id="path5101" />
+      <text
+         text-anchor="middle"
+         x="313.5"
+         y="-259.79999"
+         font-family="Times, serif"
+         font-size="9px"
+         fill="#000000"
+         id="text5103">Temperature &lt; 99.35°F</text>
+    </g>
+    <!-- 0&#45;&gt;2 -->
+    <g
+       id="edge2"
+       class="edge">
+      <title
+         id="title5106">0-&gt;2</title>
+      <path
+         fill="none"
+         stroke="#ff0000"
+         d="m 263.1411,-323.8041 c 8.466,10.3901 19.063,23.3955 28.3492,34.7922"
+         id="path5108" />
+      <polygon
+         fill="#ff0000"
+         stroke="#ff0000"
+         points="291.6544,-288.8105 294.8128,-284.9343 288.1659,-285.9679 297.9712,-281.0581 295.143,-291.653 294.8128,-284.9343 "
+         id="polygon5110" />
+      <text
+         text-anchor="middle"
+         x="296.5"
+         y="-301.20001"
+         font-family="Times, serif"
+         font-size="6px"
+         fill="#000000"
+         id="text5112">No/Missing</text>
+    </g>
+    <!-- 3 -->
+    <g
+       id="node4"
+       class="node">
+      <title
+         id="title5115">3</title>
+      <path
+         fill="#29bfc4"
+         stroke="#000000"
+         d="m 69,-200 c 0,0 -33,0 -33,0 -6,0 -12,6 -12,12 0,0 0,14 0,14 0,6 6,12 12,12 0,0 33,0 33,0 6,0 12,-6 12,-12 0,0 0,-14 0,-14 0,-6 -6,-12 -12,-12"
+         id="path5117" />
+      <text
+         text-anchor="middle"
+         x="52.5"
+         y="-178.8"
+         font-family="Times, serif"
+         font-size="9px"
+         fill="#ffffff"
+         id="text5119">Positive</text>
+    </g>
+    <!-- 1&#45;&gt;3 -->
+    <g
+       id="edge3"
+       class="edge">
+      <title
+         id="title5122">1-&gt;3</title>
+      <path
+         fill="none"
+         stroke="#0000ff"
+         d="m 151.6918,-242.8041 c -18.4916,11.5217 -42.1445,26.2592 -61.7147,38.453"
+         id="path5124" />
+      <polygon
+         fill="#0000ff"
+         stroke="#0000ff"
+         points="89.7932,-204.2365 85.5495,-201.5924 87.4134,-208.0558 81.3058,-198.9483 92.1729,-200.4173 85.5495,-201.5924 "
+         id="polygon5126" />
+      <text
+         text-anchor="middle"
+         x="136.5"
+         y="-220.2"
+         font-family="Times, serif"
+         font-size="6px"
+         fill="#000000"
+         id="text5128">Yes/Missing</text>
+    </g>
+    <!-- 4 -->
+    <g
+       id="node5"
+       class="node">
+      <title
+         id="title5131">4</title>
+      <path
+         fill="#fff7eb"
+         stroke="#000000"
+         d="m 254,-200 c 0,0 -143,0 -143,0 -6,0 -12,6 -12,12 0,0 0,14 0,14 0,6 6,12 12,12 0,0 143,0 143,0 6,0 12,-6 12,-12 0,0 0,-14 0,-14 0,-6 -6,-12 -12,-12"
+         id="path5133" />
+      <text
+         text-anchor="middle"
+         x="182.5"
+         y="-178.8"
+         font-family="Times, serif"
+         font-size="9px"
+         fill="#000000"
+         id="text5135">Aspartate Aminotransferase &lt; 24.5 u/L</text>
+    </g>
+    <!-- 1&#45;&gt;4 -->
+    <g
+       id="edge4"
+       class="edge">
+      <title
+         id="title5138">1-&gt;4</title>
+      <path
+         fill="none"
+         stroke="#ff0000"
+         d="m 182.5,-242.8041 c 0,9.684 0,21.6399 0,32.4476"
+         id="path5140" />
+      <polygon
+         fill="#ff0000"
+         stroke="#ff0000"
+         points="182.5001,-210.0581 182.5,-205.0581 178.0001,-210.0581 182.5,-200.0581 187.0001,-210.058 182.5,-205.0581 "
+         id="polygon5142" />
+      <text
+         text-anchor="middle"
+         x="186.5"
+         y="-220.2"
+         font-family="Times, serif"
+         font-size="6px"
+         fill="#000000"
+         id="text5144">No</text>
+    </g>
+    <!-- 5 -->
+    <g
+       id="node12"
+       class="node">
+      <title
+         id="title5147">5</title>
+      <path
+         fill="#910d4f"
+         stroke="#000000"
+         d="m 331.5,-200 c 0,0 -36,0 -36,0 -6,0 -12,6 -12,12 0,0 0,14 0,14 0,6 6,12 12,12 0,0 36,0 36,0 6,0 12,-6 12,-12 0,0 0,-14 0,-14 0,-6 -6,-12 -12,-12"
+         id="path5149" />
+      <text
+         text-anchor="middle"
+         x="313.5"
+         y="-178.8"
+         font-family="Times, serif"
+         font-size="9px"
+         fill="#ffffff"
+         id="text5151">Negative</text>
+    </g>
+    <!-- 2&#45;&gt;5 -->
+    <g
+       id="edge11"
+       class="edge">
+      <title
+         id="title5154">2-&gt;5</title>
+      <path
+         fill="none"
+         stroke="#0000ff"
+         d="m 313.5,-242.8041 c 0,9.684 0,21.6399 0,32.4476"
+         id="path5156" />
+      <polygon
+         fill="#0000ff"
+         stroke="#0000ff"
+         points="313.5001,-210.0581 313.5,-205.0581 309.0001,-210.0581 313.5,-200.0581 318.0001,-210.058 313.5,-205.0581 "
+         id="polygon5158" />
+      <text
+         text-anchor="middle"
+         x="328.5"
+         y="-220.2"
+         font-family="Times, serif"
+         font-size="6px"
+         fill="#000000"
+         id="text5160">Yes/Missing</text>
+    </g>
+    <!-- 6 -->
+    <g
+       id="node13"
+       class="node">
+      <title
+         id="title5163">6</title>
+      <path
+         fill="#fff7eb"
+         stroke="#000000"
+         d="m 493.5,-200 c 0,0 -120,0 -120,0 -6,0 -12,6 -12,12 0,0 0,14 0,14 0,6 6,12 12,12 0,0 120,0 120,0 6,0 12,-6 12,-12 0,0 0,-14 0,-14 0,-6 -6,-12 -12,-12"
+         id="path5165" />
+      <text
+         text-anchor="middle"
+         x="433.5"
+         y="-178.8"
+         font-family="Times, serif"
+         font-size="9px"
+         fill="#000000"
+         id="text5167">Systolic Blood Pressure &lt; 154.5</text>
+    </g>
+    <!-- 2&#45;&gt;6 -->
+    <g
+       id="edge12"
+       class="edge">
+      <title
+         id="title5170">2-&gt;6</title>
+      <path
+         fill="none"
+         stroke="#ff0000"
+         d="m 341.9383,-242.8041 c 16.439,11.0963 37.2968,25.1753 54.9514,37.0922"
+         id="path5172" />
+      <polygon
+         fill="#ff0000"
+         stroke="#ff0000"
+         points="396.9773,-205.6529 401.1216,-202.8555 394.4597,-201.923 405.2658,-200.0581 399.4949,-209.3827 401.1216,-202.8555 "
+         id="polygon5174" />
+      <text
+         text-anchor="middle"
+         x="381.5"
+         y="-220.2"
+         font-family="Times, serif"
+         font-size="6px"
+         fill="#000000"
+         id="text5176">No</text>
+    </g>
+    <!-- 7 -->
+    <g
+       id="node6"
+       class="node">
+      <title
+         id="title5179">7</title>
+      <path
+         fill="#fff7eb"
+         stroke="#000000"
+         d="m 137,-119 c 0,0 -125,0 -125,0 -6,0 -12,6 -12,12 0,0 0,14 0,14 0,6 6,12 12,12 0,0 125,0 125,0 6,0 12,-6 12,-12 0,0 0,-14 0,-14 0,-6 -6,-12 -12,-12"
+         id="path5181" />
+      <text
+         text-anchor="middle"
+         x="74.5"
+         y="-97.800003"
+         font-family="Times, serif"
+         font-size="9px"
+         fill="#000000"
+         id="text5183">Lymphocyte Count &lt; 6.95 K/mcL</text>
+    </g>
+    <!-- 4&#45;&gt;7 -->
+    <g
+       id="edge5"
+       class="edge">
+      <title
+         id="title5186">4-&gt;7</title>
+      <path
+         fill="none"
+         stroke="#0000ff"
+         d="m 156.9055,-161.8041 c -14.5261,10.8945 -32.8858,24.6643 -48.5867,36.44"
+         id="path5188" />
+      <polygon
+         fill="#0000ff"
+         stroke="#0000ff"
+         points="107.9108,-125.0581 103.9108,-122.0581 105.2108,-128.6581 99.9108,-119.0581 110.6108,-121.4581 103.9108,-122.0581 "
+         id="polygon5190" />
+      <text
+         text-anchor="middle"
+         x="147.5"
+         y="-139.2"
+         font-family="Times, serif"
+         font-size="6px"
+         fill="#000000"
+         id="text5192">Yes/Missing</text>
+    </g>
+    <!-- 8 -->
+    <g
+       id="node7"
+       class="node">
+      <title
+         id="title5195">8</title>
+      <path
+         fill="#fff7eb"
+         stroke="#000000"
+         d="m 308,-119 c 0,0 -129,0 -129,0 -6,0 -12,6 -12,12 0,0 0,14 0,14 0,6 6,12 12,12 0,0 129,0 129,0 6,0 12,-6 12,-12 0,0 0,-14 0,-14 0,-6 -6,-12 -12,-12"
+         id="path5197" />
+      <text
+         text-anchor="middle"
+         x="243.5"
+         y="-97.800003"
+         font-family="Times, serif"
+         font-size="9px"
+         fill="#000000"
+         id="text5199">Lymphocyte Count &lt; 14.30 K/mcL</text>
+    </g>
+    <!-- 4&#45;&gt;8 -->
+    <g
+       id="edge6"
+       class="edge">
+      <title
+         id="title5202">4-&gt;8</title>
+      <path
+         fill="none"
+         stroke="#ff0000"
+         d="m 196.9561,-161.8041 c 7.7488,10.2893 17.4289,23.1432 25.9513,34.4598"
+         id="path5204" />
+      <polygon
+         fill="#ff0000"
+         stroke="#ff0000"
+         points="223.1318,-127.0463 226.1397,-123.0522 219.5371,-124.3391 229.1476,-119.0581 226.7265,-129.7534 226.1397,-123.0522 "
+         id="polygon5206" />
+      <text
+         text-anchor="middle"
+         x="219.5"
+         y="-139.2"
+         font-family="Times, serif"
+         font-size="6px"
+         fill="#000000"
+         id="text5208">No</text>
+    </g>
+    <!-- 11 -->
+    <g
+       id="node8"
+       class="node">
+      <title
+         id="title5211">11</title>
+      <path
+         fill="#29bfc4"
+         stroke="#000000"
+         d="m 56,-38 c 0,0 -33,0 -33,0 -6,0 -12,6 -12,12 0,0 0,14 0,14 0,6 6,12 12,12 0,0 33,0 33,0 6,0 12,-6 12,-12 0,0 0,-14 0,-14 0,-6 -6,-12 -12,-12"
+         id="path5213" />
+      <text
+         text-anchor="middle"
+         x="39.5"
+         y="-16.799999"
+         font-family="Times, serif"
+         font-size="9px"
+         fill="#ffffff"
+         id="text5215">Positive</text>
+    </g>
+    <!-- 7&#45;&gt;11 -->
+    <g
+       id="edge7"
+       class="edge">
+      <title
+         id="title5218">7-&gt;11</title>
+      <path
+         fill="none"
+         stroke="#0000ff"
+         d="m 66.2055,-80.8041 c -4.3152,9.9866 -9.6744,22.3893 -14.4569,33.4574"
+         id="path5220" />
+      <polygon
+         fill="#0000ff"
+         stroke="#0000ff"
+         points="51.7016,-47.2378 49.7183,-42.6479 47.5707,-49.0227 47.735,-38.0581 55.8324,-45.4528 49.7183,-42.6479 "
+         id="polygon5222" />
+      <text
+         text-anchor="middle"
+         x="73.5"
+         y="-58.200001"
+         font-family="Times, serif"
+         font-size="6px"
+         fill="#000000"
+         id="text5224">Yes/Missing</text>
+    </g>
+    <!-- 12 -->
+    <g
+       id="node9"
+       class="node">
+      <title
+         id="title5227">12</title>
+      <path
+         fill="#910d4f"
+         stroke="#000000"
+         d="m 134.5,-38 c 0,0 -36,0 -36,0 -6,0 -12,6 -12,12 0,0 0,14 0,14 0,6 6,12 12,12 0,0 36,0 36,0 6,0 12,-6 12,-12 0,0 0,-14 0,-14 0,-6 -6,-12 -12,-12"
+         id="path5229" />
+      <text
+         text-anchor="middle"
+         x="116.5"
+         y="-16.799999"
+         font-family="Times, serif"
+         font-size="9px"
+         fill="#ffffff"
+         id="text5231">Negative</text>
+    </g>
+    <!-- 7&#45;&gt;12 -->
+    <g
+       id="edge8"
+       class="edge">
+      <title
+         id="title5234">7-&gt;12</title>
+      <path
+         fill="none"
+         stroke="#ff0000"
+         d="m 84.4534,-80.8041 c 5.2306,10.0875 11.7393,22.6401 17.522,33.7924"
+         id="path5236" />
+      <polygon
+         fill="#ff0000"
+         stroke="#ff0000"
+         points="102.0148,-46.9356 104.3164,-42.4969 98.0199,-44.8642 106.618,-38.0581 106.0097,-49.0071 104.3164,-42.4969 "
+         id="polygon5238" />
+      <text
+         text-anchor="middle"
+         x="101.5"
+         y="-58.200001"
+         font-family="Times, serif"
+         font-size="6px"
+         fill="#000000"
+         id="text5240">No</text>
+    </g>
+    <!-- 13 -->
+    <g
+       id="node10"
+       class="node">
+      <title
+         id="title5243">13</title>
+      <path
+         fill="#29bfc4"
+         stroke="#000000"
+         d="m 217,-38 c 0,0 -33,0 -33,0 -6,0 -12,6 -12,12 0,0 0,14 0,14 0,6 6,12 12,12 0,0 33,0 33,0 6,0 12,-6 12,-12 0,0 0,-14 0,-14 0,-6 -6,-12 -12,-12"
+         id="path5245" />
+      <text
+         text-anchor="middle"
+         x="200.5"
+         y="-16.799999"
+         font-family="Times, serif"
+         font-size="9px"
+         fill="#ffffff"
+         id="text5247">Positive</text>
+    </g>
+    <!-- 8&#45;&gt;13 -->
+    <g
+       id="edge9"
+       class="edge">
+      <title
+         id="title5250">8-&gt;13</title>
+      <path
+         fill="none"
+         stroke="#0000ff"
+         d="m 233.3096,-80.8041 c -5.3551,10.0875 -12.0188,22.6401 -17.9392,33.7924"
+         id="path5252" />
+      <polygon
+         fill="#0000ff"
+         stroke="#0000ff"
+         points="215.3062,-46.8907 212.9617,-42.4744 211.3315,-49.0007 210.6173,-38.0581 219.2809,-44.7806 212.9617,-42.4744 "
+         id="polygon5254" />
+      <text
+         text-anchor="middle"
+         x="228.5"
+         y="-58.200001"
+         font-family="Times, serif"
+         font-size="6px"
+         fill="#000000"
+         id="text5256">Yes</text>
+    </g>
+    <!-- 14 -->
+    <g
+       id="node11"
+       class="node">
+      <title
+         id="title5259">14</title>
+      <path
+         fill="#910d4f"
+         stroke="#000000"
+         d="m 295.5,-38 c 0,0 -36,0 -36,0 -6,0 -12,6 -12,12 0,0 0,14 0,14 0,6 6,12 12,12 0,0 36,0 36,0 6,0 12,-6 12,-12 0,0 0,-14 0,-14 0,-6 -6,-12 -12,-12"
+         id="path5261" />
+      <text
+         text-anchor="middle"
+         x="277.5"
+         y="-16.799999"
+         font-family="Times, serif"
+         font-size="9px"
+         fill="#ffffff"
+         id="text5263">Negative</text>
+    </g>
+    <!-- 8&#45;&gt;14 -->
+    <g
+       id="edge10"
+       class="edge">
+      <title
+         id="title5266">8-&gt;14</title>
+      <path
+         fill="none"
+         stroke="#ff0000"
+         d="m 251.5575,-80.8041 c 4.192,9.9866 9.398,22.3893 14.0439,33.4574"
+         id="path5268" />
+      <polygon
+         fill="#ff0000"
+         stroke="#ff0000"
+         points="265.6299,-47.2787 267.5651,-42.6684 261.4806,-45.537 269.5003,-38.0581 269.7792,-49.0204 267.5651,-42.6684 "
+         id="polygon5270" />
+      <text
+         text-anchor="middle"
+         x="276.5"
+         y="-58.200001"
+         font-family="Times, serif"
+         font-size="6px"
+         fill="#000000"
+         id="text5272">No/Missing</text>
+    </g>
+    <!-- 9 -->
+    <g
+       id="node14"
+       class="node">
+      <title
+         id="title5275">9</title>
+      <path
+         fill="#29bfc4"
+         stroke="#000000"
+         d="m 408,-119 c 0,0 -33,0 -33,0 -6,0 -12,6 -12,12 0,0 0,14 0,14 0,6 6,12 12,12 0,0 33,0 33,0 6,0 12,-6 12,-12 0,0 0,-14 0,-14 0,-6 -6,-12 -12,-12"
+         id="path5277" />
+      <text
+         text-anchor="middle"
+         x="391.5"
+         y="-97.800003"
+         font-family="Times, serif"
+         font-size="9px"
+         fill="#ffffff"
+         id="text5279">Positive</text>
+    </g>
+    <!-- 6&#45;&gt;9 -->
+    <g
+       id="edge13"
+       class="edge">
+      <title
+         id="title5282">6-&gt;9</title>
+      <path
+         fill="none"
+         stroke="#0000ff"
+         d="m 423.5466,-161.8041 c -5.2306,10.0875 -11.7393,22.6401 -17.522,33.7924"
+         id="path5284" />
+      <polygon
+         fill="#0000ff"
+         stroke="#0000ff"
+         points="405.9852,-127.9356 403.6836,-123.4969 401.9903,-130.0071 401.382,-119.0581 409.9801,-125.8642 403.6836,-123.4969 "
+         id="polygon5286" />
+      <text
+         text-anchor="middle"
+         x="429.5"
+         y="-139.2"
+         font-family="Times, serif"
+         font-size="6px"
+         fill="#000000"
+         id="text5288">Yes/Missing</text>
+    </g>
+    <!-- 10 -->
+    <g
+       id="node15"
+       class="node">
+      <title
+         id="title5291">10</title>
+      <path
+         fill="#910d4f"
+         stroke="#000000"
+         d="m 486.5,-119 c 0,0 -36,0 -36,0 -6,0 -12,6 -12,12 0,0 0,14 0,14 0,6 6,12 12,12 0,0 36,0 36,0 6,0 12,-6 12,-12 0,0 0,-14 0,-14 0,-6 -6,-12 -12,-12"
+         id="path5293" />
+      <text
+         text-anchor="middle"
+         x="468.5"
+         y="-97.800003"
+         font-family="Times, serif"
+         font-size="9px"
+         fill="#ffffff"
+         id="text5295">Negative</text>
+    </g>
+    <!-- 6&#45;&gt;10 -->
+    <g
+       id="edge14"
+       class="edge">
+      <title
+         id="title5298">6-&gt;10</title>
+      <path
+         fill="none"
+         stroke="#ff0000"
+         d="m 441.7945,-161.8041 c 4.3152,9.9866 9.6744,22.3893 14.4569,33.4574"
+         id="path5300" />
+      <polygon
+         fill="#ff0000"
+         stroke="#ff0000"
+         points="456.2984,-128.2378 458.2817,-123.6479 452.1676,-126.4528 460.265,-119.0581 460.4293,-130.0227 458.2817,-123.6479 "
+         id="polygon5302" />
+      <text
+         text-anchor="middle"
+         x="455.5"
+         y="-139.2"
+         font-family="Times, serif"
+         font-size="6px"
+         fill="#000000"
+         id="text5304">No</text>
+    </g>
+  </g>
+  <text
+     xml:space="preserve"
+     id="text5352"
+     style="line-height:1.25;font-family:sans-serif;font-size:4.32044900999999992px;letter-spacing:0px;white-space:pre;shape-inside:url(#rect5354);" />
+  <text
+     xml:space="preserve"
+     id="text5358"
+     style="font-size:14.40150000000000041px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect5360);"><tspan
+       style="visibility:hidden"
+       x="45.111328"
+       y="72.002206"><tspan
+         dx="0 8.8040419 3.9941664 7.2007504 8.0164585 6.1318874 6.3850403 3.6003761"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.4015px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold'">Figure 4</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     id="text5364"
+     style="font-size:28.80300000000000082px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect5366);" />
+  <text
+     xml:space="preserve"
+     id="text5370"
+     style="line-height:1.25;font-family:sans-serif;font-size:4.32044900999999992px;letter-spacing:0px;white-space:pre;shape-inside:url(#rect5372);" />
+  <text
+     xml:space="preserve"
+     id="text5384"
+     style="line-height:1.25;font-family:sans-serif;font-size:4.32044900999999992px;letter-spacing:0px;white-space:pre;shape-inside:url(#rect5386);" />
+  <text
+     xml:space="preserve"
+     id="text5390"
+     style="font-size:8.64089801999999985px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect5392);" />
+  <text
+     xml:space="preserve"
+     id="text5396"
+     style="font-size:8.64090000000000025px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect5398);"
+     transform="translate(217.99081,-94.749804)"><tspan
+       x="43.990234"
+       y="128.24664"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.6409px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '">N=19263</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     id="text5396-1"
+     style="font-size:8.64090000000000025px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect5398-7);"
+     transform="translate(-8.9248377,135.46781)"><tspan
+       x="43.990234"
+       y="128.24664"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.6409px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '">N=1365
+</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     id="text5396-3"
+     style="font-size:8.64090000000000025px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect5398-8);"
+     transform="translate(36.131013,109.62695)"><tspan
+       x="43.990234"
+       y="128.24664"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.6409px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '">N=1942
+</tspan></tspan><tspan
+       x="43.990234"
+       y="139.26127"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.6409px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '">C: 930
+</tspan></tspan><tspan
+       x="43.990234"
+       y="150.2759"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.6409px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '">I: 1112</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     id="text5396-0"
+     style="font-size:8.64090000000000025px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect5398-74);"
+     transform="translate(124.91755,-18.914742)"><tspan
+       x="43.990234"
+       y="128.24664"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.6409px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '">N=4464</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     id="text5396-5"
+     style="font-size:8.64090000000000025px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect5398-4);"
+     transform="translate(312.42939,-18.914742)"
+     inkscape:transform-center-x="188.17443"
+     inkscape:transform-center-y="-35.779645"><tspan
+       x="43.990234"
+       y="128.24664"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.6409px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '">N=14799
+</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     id="text5396-6"
+     style="font-size:8.64090000000000025px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect5398-70);"
+     transform="translate(196.47684,58.607825)"><tspan
+       x="43.990234"
+       y="128.24664"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.6409px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '">N=2522
+</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     id="text5396-30"
+     style="font-size:8.64090000000000025px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect5398-3);"
+     transform="translate(282.16877,111.17046)"><tspan
+       x="43.990234"
+       y="128.24664"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.6409px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '">N=14360
+</tspan></tspan><tspan
+       x="43.990234"
+       y="139.26127"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.6409px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '">C: 13003
+</tspan></tspan><tspan
+       x="43.990234"
+       y="150.2759"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.6409px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '">I: 1357
+</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     id="text5527"
+     style="line-height:1.25;font-family:sans-serif;font-size:4.32044900999999992px;letter-spacing:0px;white-space:pre;shape-inside:url(#rect5529);" />
+  <text
+     xml:space="preserve"
+     style="font-size:4.32045px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;stroke-width:0.108011"
+     x="84.81102"
+     y="194.76974"
+     id="text5535"><tspan
+       sodipodi:role="line"
+       id="tspan5533"
+       x="84.81102"
+       y="194.76974"
+       style="stroke-width:0.108011">e</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text5396-4"
+     style="font-size:8.64090000000000025px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect5398-1);"
+     transform="translate(445.10548,60.020159)"><tspan
+       x="43.990234"
+       y="128.24664"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.6409px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '">N=439</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     id="text5396-3-4"
+     style="font-size:8.64090000000000025px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect5398-8-9);"
+     transform="translate(26.192677,264.43334)"><tspan
+       x="43.990234"
+       y="128.24664"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.6409px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '">N=461
+</tspan></tspan><tspan
+       x="43.990234"
+       y="139.26127"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.6409px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '">C: 102
+</tspan></tspan><tspan
+       x="43.990234"
+       y="150.2759"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.6409px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '">I: 359</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     id="text5396-3-0"
+     style="font-size:8.64090000000000025px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect5398-8-6);"
+     transform="translate(99.077141,265.09592)"><tspan
+       x="43.990234"
+       y="128.24664"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.6409px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '">N=904
+</tspan></tspan><tspan
+       x="43.990234"
+       y="139.26127"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.6409px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '">C: 741
+</tspan></tspan><tspan
+       x="43.990234"
+       y="150.2759"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.6409px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '">I: 163</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     id="text5396-3-06"
+     style="font-size:8.64090000000000025px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect5398-8-91);"
+     transform="translate(178.58747,264.43334)"><tspan
+       x="43.990234"
+       y="128.24664"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.6409px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '">N=952
+</tspan></tspan><tspan
+       x="43.990234"
+       y="139.26127"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.6409px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '">C: 298
+</tspan></tspan><tspan
+       x="43.990234"
+       y="150.2759"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.6409px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '">I: 654</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     id="text5396-3-01"
+     style="font-size:8.64090000000000025px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect5398-8-4);"
+     transform="translate(249.48417,265.09592)"><tspan
+       x="43.990234"
+       y="128.24664"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.6409px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '">N=205
+</tspan></tspan><tspan
+       x="43.990234"
+       y="139.26127"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.6409px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '">C: 148
+</tspan></tspan><tspan
+       x="43.990234"
+       y="150.2759"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.6409px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '">I: 57</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     id="text5396-3-02"
+     style="font-size:8.64090000000000025px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect5398-8-92);"
+     transform="translate(360.13605,188.23595)"><tspan
+       x="43.990234"
+       y="128.24664"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.6409px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '">N=364
+</tspan></tspan><tspan
+       x="43.990234"
+       y="139.26127"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.6409px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '">C: 113
+</tspan></tspan><tspan
+       x="43.990234"
+       y="150.2759"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.6409px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '">I: 251</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     id="text5396-3-5"
+     style="font-size:8.64090000000000025px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect5398-8-0);"
+     transform="translate(435.67085,189.56111)"><tspan
+       x="43.990234"
+       y="128.24664"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.6409px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '">N=75
+</tspan></tspan><tspan
+       x="43.990234"
+       y="139.26127"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.6409px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '">C: 55
+</tspan></tspan><tspan
+       x="43.990234"
+       y="150.2759"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.6409px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '">I: 20</tspan></tspan></text>
+</svg>
